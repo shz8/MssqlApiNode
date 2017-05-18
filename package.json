@@ -1,0 +1,19 @@
+{
+  "name": "nodeapiformssql",
+  "version": "1.0.0",
+  "description": "便捷的将mssql存储过程开放为webapi，或做一些简单配置，将sql操作语句开放为api。前面已经已经开发了一套c#版的，使用起来还是挺方便的，现在改为nodejs实现。",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shz8/NodeApiForMssql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shz8/NodeApiForMssql/issues"
+  },
+  "homepage": "https://github.com/shz8/NodeApiForMssql#readme"
+}
